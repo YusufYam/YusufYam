@@ -1,7 +1,7 @@
 <h2>💻 Skills & Tools</h2>
-<table cellspacing="15">
+<table align="center" cellspacing="15">
   <tr>
-    <td>
+    <td style="vertical-align:top;">
       <b>Programming Languages</b><br/>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48"/>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48"/>
@@ -10,7 +10,7 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="48"/>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48"/>
     </td>
-    <td>
+    <td style="vertical-align:top;">
       <b>Web & Frameworks</b><br/>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48"/>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48"/>
@@ -19,7 +19,7 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="48"/>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="48"/>
     </td>
-    <td>
+    <td style="vertical-align:top;">
       <b>Database & Cloud</b><br/>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="48"/>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="48"/>
@@ -30,7 +30,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="vertical-align:top;">
       <b>Blockchain & Crypto</b><br/>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="48"/>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="48"/>
@@ -39,7 +39,7 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="48"/>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="48"/>
     </td>
-    <td>
+    <td style="vertical-align:top;">
       <b>Tools & Platforms</b><br/>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="48"/>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="48"/>
@@ -48,7 +48,7 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="48"/>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="48"/>
     </td>
-    <td>
+    <td style="vertical-align:top;">
       <b>Socials</b><br/>
       <a href="https://www.github.com/yusufyam"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48"/></a>
       <a href="https://www.x.com/yusufyam33"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="48"/></a>
