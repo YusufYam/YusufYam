@@ -14,9 +14,20 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
 * 🧠  Currently learning **C++**
 * ⚡  “İstisna bir sonuç istiyorsanız, müstesna koşullar altında çalışmalısınız.” ~ Selçuk Bayraktar
 
+<style>
+    .label {
+    /* Kalınlık (h2'nin kalınlığı genellikle bold'dur) */
+    font-weight: bold; 
 
+    /* Boyut (h2 boyutu tarayıcıya göre değişir, tipik olarak 1.5em civarındadır) */
+    font-size: 1.5em; 
+    
+    /* Etiketi blok eleman gibi göstererek tam genişlik almasını ve boyut ayarlarının düzgün çalışmasını sağlar */
+    display: block; 
+}
+</style>
 <h2>Skills</h2>
-<label>Skilsls</label>
+<label id="label">Skilsls</label>
 <h2>Programming Languages</h2>
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36"/>
