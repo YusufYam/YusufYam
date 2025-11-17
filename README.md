@@ -15,8 +15,7 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
 * ⚡  “İstisna bir sonuç istiyorsanız, müstesna koşullar altında çalışmalısınız.” ~ Selçuk Bayraktar
 
 <h2>Skills</h2>
-<label style="font-weight: bold;font-size: 1.5em;display: block; ">Skilsls</label>
-<h2>Programming Languages</h2>
+<label style="font-weight: 600; font-size: 2em; display: block; border-bottom: 1px solid #333; padding-bottom: 5px; margin-bottom: 20px;">Skills</label><h2>Programming Languages</h2>
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" width="36" height="36"/>
