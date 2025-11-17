@@ -1,4 +1,4 @@
-<h2>💻 Skills & Tools</h2>
+<h2 style="vertical-align:top;">💻 Skills & Tools</h2>
 <table align="center" cellspacing="15">
   <tr>
     <td style="vertical-align:top;">
