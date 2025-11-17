@@ -51,11 +51,11 @@
     <td style="vertical-align:top;"><div align="center">
       <b>Socials</b><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.github.com/yusufyam"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-      <a href="https://www.x.com/yusufyam33"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</a>
-      <a href="https://www.linkedin.com/in/yusuf-yam-85ba51384/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;</a><br/>
-      <a href="https://www.youtube.com/@yusuf_yam">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</a>
-      <a href="https://discord.com/users/hylix"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</a>
-      <a href="https://www.instagram.com/yusuf.yam33"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;</a><div/>
+      <a href="https://www.x.com/yusufyam33"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/yusuf-yam-85ba51384/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/@yusuf_yam"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+      <a href="https://discord.com/users/hylix"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+      <a href="https://www.instagram.com/yusuf.yam33"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<div/>
 </td>
   </tr>
 </table>
