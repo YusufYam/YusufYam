@@ -61,6 +61,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&custom_title=Top%20Languages" alt="Top Languages"/></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufyam&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/></td>
+    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufyam&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak"/></td>
   </tr>
 </table>
