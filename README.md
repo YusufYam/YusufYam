@@ -14,7 +14,6 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
 * 🧠  Currently learning **C++**
 * ⚡  “İstisna bir sonuç istiyorsanız, müstesna koşullar altında çalışmalısınız.” ~ Selçuk Bayraktar
 
----
 
 ## Skills
 
@@ -62,8 +61,6 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" width="36" height="36"/>
 </p>
 
----
-
 ## Socials
 
 <p>
@@ -75,8 +72,6 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
     <a href="https://www.instagram.com/yusuf.yam33" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
 
 </p>
-
----
 
 ## GitHub Stats
 
