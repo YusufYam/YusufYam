@@ -13,10 +13,22 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
 * ✉️  Contact me at [yusuf@uren.tr](mailto:yusuf@uren.tr)
 * 🧠  Currently learning **C++**
 * ⚡  “İstisna bir sonuç istiyorsanız, müstesna koşullar altında çalışmalısınız.” ~ Selçuk Bayraktar
+<style>
+    .label {
+    /* Kalınlık (h2'nin kalınlığı genellikle bold'dur) */
+    font-weight: bold; 
+
+    /* Boyut (h2 boyutu tarayıcıya göre değişir, tipik olarak 1.5em civarındadır) */
+    font-size: 1.5em; 
+    
+    /* Etiketi blok eleman gibi göstererek tam genişlik almasını ve boyut ayarlarının düzgün çalışmasını sağlar */
+    display: block; 
+}
+</style>
 
 <h2>Skills</h2>
-<b>Skills</b>
-<h2>Programming Languages</h2>
+
+<h2> Programming Languages</h2>
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" width="36" height="36"/>
@@ -27,7 +39,7 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36"/>
 </p>
 
-<h2>Web & Frameworks</h2>
+<h2></h2> Web & Frameworks</h2>
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="36" height="36"/>
@@ -36,20 +48,20 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" width="36" height="36"/>
 </p>
 
-### Database & Cloud
+<h2>Database & Cloud</h2>
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" width="36" height="36"/>
 </p>
 
-### Blockchain & Crypto
+<h2>Blockchain & Crypto</h2>
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" alt="MetaMask" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" alt="Ethereum" width="36" height="36"/>
 </p>
 
-### Tools & Platforms
+<h2>Tools & Platforms</h2>
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="36" height="36"/>
@@ -60,7 +72,7 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" width="36" height="36"/>
 </p>
 
-## Socials
+<h2> Socials</h2>
 
 <p>
   <a href="https://www.github.com/yusufyam" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
@@ -72,7 +84,7 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
 
 </p>
 
-## GitHub Stats
+<h2> GitHub Stats</h2>
 
 <p>
   <a href="http://www.github.com/yusufyam"><img src="https://github-readme-stats.vercel.app/api?username=yusufyam&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true" alt="yusufyam's GitHub stats" /></a>
