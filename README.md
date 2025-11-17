@@ -13,20 +13,7 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
 * ✉️  Contact me at [yusuf@uren.tr](mailto:yusuf@uren.tr)
 * 🧠  Currently learning **C++**
 * ⚡  “İstisna bir sonuç istiyorsanız, müstesna koşullar altında çalışmalısınız.” ~ Selçuk Bayraktar
-<style>
-    .label {
-    /* Kalınlık (h2'nin kalınlığı genellikle bold'dur) */
-    font-weight: bold; 
 
-    /* Boyut (h2 boyutu tarayıcıya göre değişir, tipik olarak 1.5em civarındadır) */
-    font-size: 1.5em; 
-    
-    /* Etiketi blok eleman gibi göstererek tam genişlik almasını ve boyut ayarlarının düzgün çalışmasını sağlar */
-    display: block; 
-}
-</style>
-
-<h2>Skills</h2>
 
 <h2> Programming Languages</h2>
 <p>
@@ -39,7 +26,7 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36"/>
 </p>
 
-<h2></h2> Web & Frameworks</h2>
+<h2>Web & Frameworks</h2>
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="36" height="36"/>
