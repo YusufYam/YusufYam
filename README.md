@@ -16,7 +16,7 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
 
 
 <h2>Skills</h2>
-
+<h2>Skilsls</h2>
 <h2>Programming Languages</h2>
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36"/>
