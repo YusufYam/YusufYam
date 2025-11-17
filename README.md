@@ -15,7 +15,7 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
 * ⚡  “İstisna bir sonuç istiyorsanız, müstesna koşullar altında çalışmalısınız.” ~ Selçuk Bayraktar
 
 
-## Skills
+<h2>Skills</h2>
 
 ### Programming Languages
 <p>
