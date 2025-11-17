@@ -3,25 +3,25 @@
   <tr>
     <td style="vertical-align:top;">
       <b>Programming Languages</b><br/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" style="margin:20px"/>&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" style="margin:20px"/>&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="48" style="margin:20px"/>&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" style="margin:4px"/><br/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="48" style="margin:4px"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" style="margin:4px"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="48" style="margin:4px"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" style="margin:4px"/>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" style="margin:20px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" style="margin:20px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="48" style="margin:20px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" style="margin:4px"/>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="48" style="margin:4px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" style="margin:4px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="48" style="margin:4px"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" style="margin:4px"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td style="vertical-align:top;">
       <b>Web & Frameworks</b><br/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48"/><br/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="48"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="48"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="48"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="48"/>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td style="vertical-align:top;">
       <b>Database & Cloud</b><br/>
