@@ -12,11 +12,11 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
 * 🧠  **C++ & Rusça** Öğreniliyor...
 * ⚡  “İstisna bir sonuç istiyorsanız, müstesna koşullar altında çalışmalısınız.” ~ Selçuk Bayraktar
 
-<h2>💻 Skills & Tools</h2>
+<h2>💻 Yetenekler & Araçlar</h2>
 <table cellspacing="15">
   <tr>
     <td style="vertical-align:top;"><div align="center">
-      <b>Programming Languages</b><br/>
+      <b>Diller</b><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" style="margin:20px"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" style="margin:20px"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="48" style="margin:20px"/>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -34,7 +34,7 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;<div/>
 </td>
     <td style="vertical-align:top;"><div align="center">
-      <b>Database & Cloud</b><br/>
+      <b>Databaseler</b><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -45,7 +45,7 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
   </tr>
   <tr>
     <td style="vertical-align:top;"><div align="center">
-      <b>Hobbies</b><br/>
+      <b>Hobiler</b><br/>
      &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://urengamest.com.tr/depo/icons/CS2.webp" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <img src="https://urengamest.com.tr/depo/icons/steam.png" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <img src="https://urengamest.com.tr/depo/icons/btc.webp" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -54,7 +54,7 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
       <img src="https://urengamest.com.tr/depo/icons/spotify.png" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;<div/>
 </td>
     <td style="vertical-align:top;"><div align="center">
-      <b>Tools & Platforms</b><br/>
+      <b>Sıklıkla Kullanılan</b><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -63,7 +63,7 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;<div/>
 </td>
     <td style="vertical-align:top;"><div align="center">
-      <b>Socials</b><br/>
+      <b>Sosyal Media</b><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sosyal.teknofest.app/@myster_hylix"><img src="https://urengamest.com.tr/depo/icons/Nsosyal.png" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <a href="https://www.x.com/yusufyam33"><img src="https://urengamest.com.tr/depo/icons/X-white.png" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/yusuf-yam-85ba51384/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
