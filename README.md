@@ -1,4 +1,4 @@
-# Selamün Aleyküm ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Adım Yusuf Yam, Yazılım Mühendisiyim
+# Selamün Aleyküm ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Adım Yusuf Yam, Yazılım Mühendisiyim;
 
 Odak noktam savunma sanayi olsa da; hayat beni **oyun, web, akıllı ev sistemleri, yapay zeka, otonom yazılımlar ve siber güvenlik** alanlarında projeler geliştirmeye yönlendirdi. Bu süreçte birçok bilgi edindim, **JavaScript**’te uzmanlaştım ve zamanla farklı alanlarda tecrübe kazanarak çok yönlü bir yazılım geliştiricisine dönüştüm.  
 
