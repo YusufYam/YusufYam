@@ -6,7 +6,7 @@ Odak noktam savunma sanayi olsa da; hayat beni **oyun, web, akıllı ev sistemle
 
 Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özellikle **savunma sanayi** alanına değer katan projeler geliştirmektir.
 
-### About Me
+### Hakkımda
 
 * 🌍  **Türkiye/Mersin**
 * 🖥️  Portfolio: [Website](http://yusuf.uren.tr)
