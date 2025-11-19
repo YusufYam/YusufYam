@@ -11,7 +11,7 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
 * 🌍  **Türkiye/Mersin**
 * 🖥️  portfolio [Website](http://yusuf.uren.tr)
 * ✉️  iletişim [yusuf@uren.tr](mailto:yusuf@uren.tr)
-* 🧠  **C++; & Rusça** Öğreniliyor...
+* 🧠  **C++ & Rusça** Öğreniliyor...
 * ⚡  “İstisna bir sonuç istiyorsanız, müstesna koşullar altında çalışmalısınız.” ~ Selçuk Bayraktar
 
 <h2>💻 Skills & Tools</h2>
