@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yusuf Yam
 
-## Software Developer
+## Yazılım Mühendisi
 
 Odak noktam savunma sanayi olsa da; hayat beni **oyun, web, akıllı ev sistemleri, yapay zeka, otonom yazılımlar ve siber güvenlik** alanlarında projeler geliştirmeye yönlendirdi. Bu süreçte birçok bilgi edindim, **JavaScript**’te uzmanlaştım ve zamanla farklı alanlarda tecrübe kazanarak çok yönlü bir yazılım geliştiricisine dönüştüm.  
 
@@ -8,10 +8,10 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
 
 ### About Me
 
-* 🌍  I'm based in **Mersin**
-* 🖥️  See my portfolio at [Website](http://yusuf.uren.tr)
-* ✉️  Contact me at [yusuf@uren.tr](mailto:yusuf@uren.tr)
-* 🧠  Currently learning **C++**
+* 🌍  **Türkiye/Mersin**
+* 🖥️  portfolio [Website](http://yusuf.uren.tr)
+* ✉️  iletişim [yusuf@uren.tr](mailto:yusuf@uren.tr)
+* 🧠  **C++; & Rusça** Öğreniliyor...
 * ⚡  “İstisna bir sonuç istiyorsanız, müstesna koşullar altında çalışmalısınız.” ~ Selçuk Bayraktar
 
 <h2>💻 Skills & Tools</h2>
