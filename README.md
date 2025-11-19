@@ -16,7 +16,7 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
 <table cellspacing="15">
   <tr>
     <td style="vertical-align:top;"><div align="center">
-      <b>Diller</b><br/>
+      <b>Programlama Dilleri</b><br/>
       &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" style="margin:20px"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" style="margin:20px"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="48" style="margin:20px"/>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
