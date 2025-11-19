@@ -30,7 +30,7 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+      <img src="https://urengamest.com.tr/depo/icons/Construct_3.png" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;<div/>
 </td>
     <td style="vertical-align:top;"><div align="center">
