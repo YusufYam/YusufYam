@@ -48,12 +48,12 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
   <tr>
     <td style="vertical-align:top;"><div align="center">
       <b>Hobbies</b><br/>
-     &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://urengamest.com.tr/depo/icons/steam.png" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-      <img src="https://urengamest.com.tr/depo/icons/CS2.webp" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://urengamest.com.tr/depo/icons/CS2.webp" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+      <img src="https://urengamest.com.tr/depo/icons/steam.png" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <img src="https://urengamest.com.tr/depo/icons/btc.webp" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-      <img src="" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;<div/>
+      <img src="https://urengamest.com.tr/depo/icons/spotify.png" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;<div/>
 </td>
     <td style="vertical-align:top;"><div align="center">
       <b>Tools & Platforms</b><br/>
