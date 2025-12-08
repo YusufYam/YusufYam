@@ -74,8 +74,8 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
   </tr>
 </table>
 
-<h2>📊 GitHub Stats</h2>
-----------YOK-----------
+<!-- <h2>📊 GitHub Stats</h2>
+----------YOK----------- -->
 <!-- <table cellspacing="15">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=yusufyam&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true" alt="GitHub Stats"/></td>
