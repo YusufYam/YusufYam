@@ -51,7 +51,7 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-      <img src="https://urengamest.com.tr/depo/icons/spotify.png" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;<div/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;<div/>
 </td>
     <td style="vertical-align:top;"><div align="center">
       <b>Sıklıkla Kullanılan</b><br/>
@@ -64,8 +64,8 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
 </td>
     <td style="vertical-align:top;"><div align="center">
       <b>Sosyal Media</b><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sosyal.teknofest.app/@myster_hylix"><img src="https://urengamest.com.tr/depo/icons/Nsosyal.png" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-      <a href="https://www.x.com/yusufyam33"><img src="https://urengamest.com.tr/depo/icons/X-white.png" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sosyal.teknofest.app/@myster_hylix"><img src="https://nextsosyal.co/brand/favicon.svg" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+      <a href="https://www.x.com/yusufyam33"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/yusuf-yam-85ba51384/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/@yusuf_yam"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <a href="https://discord.com/users/hylix"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
