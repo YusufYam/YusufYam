@@ -38,9 +38,9 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
       &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-     &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://urengamest.com.tr/depo/icons/mysql.png" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-      <img src="https://urengamest.com.tr/depo/icons/postgreSql.png" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-      <img src="https://urengamest.com.tr/depo/icons/SQLite.png" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;<div/>
+     &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+      <img src="https://www.svgrepo.com/show/374094/sqlite.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;<div/>
 </td>
   </tr>
   <tr>
