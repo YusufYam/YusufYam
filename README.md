@@ -64,7 +64,7 @@ Hedefim, Türkiye Cumhuriyeti Devleti’ne ve milletime fayda sağlayacak, özel
 </td>
     <td style="vertical-align:top;"><div align="center">
       <b>Sosyal Media</b><br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sosyal.teknofest.app/@myster_hylix"><img src="https://nextsosyal.co/brand/favicon.svg" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nsosyal.com/yusufyam"><img src="https://nextsosyal.co/brand/favicon.svg" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <a href="https://www.x.com/yusufyam33"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/yusuf-yam-85ba51384/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/@yusuf_yam"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
